@@ -6,3 +6,5 @@ This works by changing the search button into an anchor element, allowing for th
 - Left click + ctrl + shift opens up a new tab and switches to it 
 
 The current Youtube functionality is that if you left click (or use any of the other combinations on) the search, it either closes the video completely or minimizes it, which might not be the desired behavior for the user. There's no reaction to a regular mouse wheel click on the search button.
+
+Last update: 03/20/2025
