@@ -9,4 +9,6 @@ The current Youtube functionality is that if you left click (or use any of the o
 
 This extension also changes the search button color to Youtube Red, if you wish to switch back to the default color, you can do so in the extension options.
 
+Usage: download and extract the zip, go to chrome://extensions/, turn on "Developer mode" in top-right corner and click on "Load unpacked", from there simply find the extracted folder
+
 Last update: 03/20/2025
