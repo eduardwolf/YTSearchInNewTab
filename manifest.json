@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube Search In New Tab",
+    "version": "1.0.0",
+    "description": "Youtube Search In New Tab",
+    "content_scripts": [
+      {
+        "js": [
+          "main.js"
+        ],
+        "matches": [
+          "https://www.youtube.com/*"
+        ]
+      }
+    ]
+  }
