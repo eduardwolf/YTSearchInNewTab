@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
-    const searchButton = document.querySelector('[aria-label="Search"]');
+    const searchButton = document.querySelector('[aria-label="Search"].ytSearchboxComponentSearchButton');
     const searchInput = document.getElementsByName("search_query")[0];
 
     if (searchButton && searchInput) {
